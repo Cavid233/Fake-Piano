@@ -12,7 +12,6 @@ This application is used for playing piano without learning how to play it. You 
 ![alt text](https://lh3.googleusercontent.com/2ybOTtq_Vf17G8vDAKhMrCX6jqnn3hXhLxINSqzeHK6ejtSgnOqt4e0nAptppXt-iOav)
 ![alt text](https://lh3.googleusercontent.com/iMLGah-nUS4g2eNb5UC46LCPDpSuyNsEQ_N8p_pZLJJ43Ue3aAvySt1mt1wFy7jUsh7m)
 ![alt text](https://lh3.googleusercontent.com/tYLn12UdWHMYQELfW4qd0iSl4fBy11BKF283d3F9NqvQr7ikuZgvM4_dQyvdeAhhzw)
-![alt text](https://lh3.googleusercontent.com/PSjgJwsuzDigxDx-HfzEOicBlX205aZ8qgdlrqHVKyP1d4PFPlMticbDNXc2hpvvvqdi)
 
 
 Note: (C) All rights reserved. Don't publish the application on Google Play or App Store.
