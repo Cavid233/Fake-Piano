@@ -1,6 +1,10 @@
 ﻿# Fake-Piano
 
-You can view the application: https://play.google.com/store/apps/details?id=com.DrSmiling.FakePiano
+View the application: https://play.google.com/store/apps/details?id=com.DrSmiling.FakePiano
+
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/MC6pZz9dtg99gUHm9PsE2cAqSTwXtn46O0qcADdD8ueDAjlzwhDqvTVe4e1EswRKmg=w240-h480-rw">
+</p>
 
 <h1>How to use?</h1>
 
