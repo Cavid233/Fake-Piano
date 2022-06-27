@@ -8,11 +8,11 @@ This application is used for playing piano without learning how to play it. You 
 
 
 
-![alt text](https://user-images.githubusercontent.com/59831153/175931908-a4bc61c9-7ef9-4252-9b19-cf8ddc034c09.png)
-![alt text](https://user-images.githubusercontent.com/59831153/175932752-1f61e556-7c67-48c4-a75f-165327cd2321.png)
-![alt text](https://user-images.githubusercontent.com/59831153/175932769-599d0443-89c6-4259-8760-c8b323df43d1.png)
-![alt text](https://user-images.githubusercontent.com/59831153/175932779-f0099c80-63a5-4ee3-a81e-fd96b295b4ab.png)
+![alt text](https://lh3.googleusercontent.com/s0FMktrVETHoztbwAguT8FIrEfW8EUw5sxetDvOIeUHDsKnDTn8CNeurLFab9LKQFw)
+![alt text](https://lh3.googleusercontent.com/2ybOTtq_Vf17G8vDAKhMrCX6jqnn3hXhLxINSqzeHK6ejtSgnOqt4e0nAptppXt-iOav)
+![alt text](https://lh3.googleusercontent.com/iMLGah-nUS4g2eNb5UC46LCPDpSuyNsEQ_N8p_pZLJJ43Ue3aAvySt1mt1wFy7jUsh7m)
+![alt text](https://lh3.googleusercontent.com/tYLn12UdWHMYQELfW4qd0iSl4fBy11BKF283d3F9NqvQr7ikuZgvM4_dQyvdeAhhzw)
+![alt text](https://lh3.googleusercontent.com/PSjgJwsuzDigxDx-HfzEOicBlX205aZ8qgdlrqHVKyP1d4PFPlMticbDNXc2hpvvvqdi)
 
 
 Note: (C) All rights reserved. Don't publish the application on Google Play or App Store.
-
