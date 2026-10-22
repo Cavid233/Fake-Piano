@@ -97,6 +97,32 @@ const jingleBells = [
 
 const redGreenLight = [3, 6, 6, 6, 5, 6, 3, 5, 5]
 
+// Mozart, arranged for the 10 white keys (C4-E5)
+
+// Symphony No. 40 (K. 550), transposed to A minor
+const mozartSymphony40 = [
+  4, 3, 3, 4, 3, 3, 4, 3, 3, 8, 8, 7, 6, 6, 5, 4, 4, 3, 2, 2, 3, 2, 2, 3, 2, 2,
+  3, 2, 2, 7, 7, 6, 5, 5, 4, 3, 3, 2, 1, 1,
+];
+
+// Eine kleine Nachtmusik (K. 525), F# played as F
+const mozartNachtmusik = [
+  5, 2, 5, 2, 5, 2, 5, 7, 9, 8, 6, 8, 6, 8, 6, 4, 6, 2, 5, 5, 5, 7, 6, 5, 5, 4,
+  4, 6, 4, 2, 5,
+];
+
+// Piano Sonata No. 16 in C (K. 545)
+const mozartSonata16 = [
+  1, 3, 5, 7, 8, 9, 8, 6, 5, 8, 5, 4, 5, 3, 4, 3, 2, 3, 4, 5, 6, 7, 8, 9, 1, 2,
+  3, 4, 5, 6, 7, 8,
+];
+
+// Twinkle Variations (K. 265), the theme
+const mozartTwinkle = [
+  1, 1, 5, 5, 6, 6, 5, 4, 4, 3, 3, 2, 2, 1, 5, 5, 4, 4, 3, 3, 2, 5, 5, 4, 4, 3,
+  3, 2, 1, 1, 5, 5, 6, 6, 5, 4, 4, 3, 3, 2, 2, 1,
+];
+
 const allNotes = {
   babyShark,
   StarWars,
@@ -113,5 +139,9 @@ const allNotes = {
   gravityFalls,
   jingleBells,
   redGreenLight,
+  mozartSymphony40,
+  mozartNachtmusik,
+  mozartSonata16,
+  mozartTwinkle,
 };
 export default allNotes;

@@ -45,6 +45,18 @@ const MusicsList = [
     [...allNotes.caribbean],
   ),
   new Music('Chicks', require('../assets/cuce.jpg'), [...allNotes.cuce]),
+  new Music('Mozart - Symphony No. 40', require('../assets/mozart.jpg'), [
+    ...allNotes.mozartSymphony40,
+  ]),
+  new Music('Mozart - Eine kleine Nachtmusik', require('../assets/mozart.jpg'), [
+    ...allNotes.mozartNachtmusik,
+  ]),
+  new Music('Mozart - Sonata No. 16', require('../assets/mozart.jpg'), [
+    ...allNotes.mozartSonata16,
+  ]),
+  new Music('Mozart - Twinkle Variations', require('../assets/mozart.jpg'), [
+    ...allNotes.mozartTwinkle,
+  ]),
 ];
 
 export default MusicsList;
